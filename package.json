@@ -1,0 +1,12 @@
+{
+  "name": "playwright-finale-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation script with GitHub Actions continuous job chaining",
+  "main": "run-finale.js",
+  "scripts": {
+    "start": "node run-finale.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
